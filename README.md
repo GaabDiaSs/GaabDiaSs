@@ -4,7 +4,7 @@
 **GaabDiaSs/GaabDiaSs** is a ✨ _special and smart_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div aling="center">
-<img src="https://tenor.com/pt-BR/view/neymar-papai-te-ama-papai-amor-brasil-neymar-gif-12091884">
+<img src="https://tenor.com/pt-BR/view/neymar-papai-te-ama-papai-amor-brasil-neymar-gif-12091884.gif">
 </div>
 
 whats is Neymar Saying
