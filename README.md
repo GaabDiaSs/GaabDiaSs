@@ -4,13 +4,10 @@
 **GaabDiaSs/GaabDiaSs** is a ✨ _special and smart_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div aling="center">
-<img src="https://tenor.com/pt-BR/view/neymar-papai-te-ama-papai-amor-brasil-neymar-gif-12091884.gif">
+<img src="https://tenor.com/pt-BR/view/neymar-papai-te-ama-papai-amor-brasil-neymar-gif-12091884.gif"  width=350%>
 </div>
 
-whats is Neymar Saying
-1 - Mama a Jeba
-2 - Meu pau te ama
-3 - Papai te Ama
+whats is Neymar Saying?
 
 
 - 🎉 I´m 17 years old ...
@@ -21,4 +18,4 @@ whats is Neymar Saying
 - 💬 Ask me about my favorite Hobby ...
 - 📫 How to reach me: gabreil.c.dias22@gmail.com ...
 - 😄 Pronouns: Ele / Dele...
-- ⚡ Fun fact: Tortona oara a esquerda kkkk...
+- ⚡ Fun fact: Obina é melhor que o Etoo...
