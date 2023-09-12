@@ -8,7 +8,10 @@
 <img src="https://tenor.com/pt-BR/view/neymar-papai-te-ama-papai-amor-brasil-neymar-gif-12091884.gif"  width=350%>
 </div>
 
-whats is Neymar Saying?
+<br>
+Yes. I belive in Neymar.Jr Supremacy.
+<br>
+<br>
 
 
 - 🎉 I´m 18 years old ...
@@ -21,6 +24,12 @@ whats is Neymar Saying?
 - 😄 Pronouns: Ele / Dele
 
 O seu maior inimigo é você mesmo! 
+
+<div>
+  <a href="https://github.com/GaabDiaSs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaabDiaSs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaabDiaSs&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
 
 -  ## Parceiros da Vida:
   
