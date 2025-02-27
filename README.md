@@ -1,7 +1,7 @@
 ### Forget Explode Padrin, o Homem é Garoto de Programa  🙅‍♂️🙅‍♂️🙅‍♂
 
 - Estudante
-- Cursando  Desenvolvimento de Sistemas na Etec da Zona Leste (3/3)
+- Tecnico em Desenvolvimento de Sistemas
 
 <div aling="center">
   <a href="https://github.com/GaabDiaSs">
@@ -14,7 +14,7 @@ Yes. I belive in Neymar.Jr Supremacy.
 <br>
 
 
-- 🎉 I´m 18 years old ...
+- 🎉 I´m 19 years old ...
 - ⚽ São Paulo FC is the best grandest football club in the Word
 - 🌱 I’m current studing in ETEC Zona Leste Sistem Devolopment / 3°rd  ...
 - 👯 I’m a creative, talkative, friend person, ...
