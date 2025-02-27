@@ -9,8 +9,6 @@
 </div>
 
 <br>
-Yes. I belive in Neymar.Jr Supremacy.
-<br>
 <br>
 
 
